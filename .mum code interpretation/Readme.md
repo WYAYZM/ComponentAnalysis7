@@ -26,6 +26,16 @@
 
     Feature Pack
 
+    restart
+
+    required
+
+    displayName
+
+    applicable disposition
+
+    staged
+
 ### code explanation
 
     语言中性，介于zh-cn and en-us 之间
@@ -49,3 +59,15 @@
     发布类型
 
     功能包
+
+    重新开始
+
+    必需的
+
+    显示名字
+
+    暂存
+
+    适用的处置
+
+    
