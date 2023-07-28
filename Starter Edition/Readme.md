@@ -1,7 +1,11 @@
-# Complete condensed list of starter edition components
+# Complete List of Starter Edition Components
 
-## Component package name:
+## full package name:
 
 ### package list 
 
-    Microsoft-Windows-Anytime-Upgrade-Package
+    Microsoft-Windows-Anytime-Upgrade-Package         
+    随时升级包
+
+    Microsoft-Windows-Anytime-Upgrade-Results-Package
+
