@@ -102,3 +102,51 @@
 
     Microsoft-Windows-IIS-WebServer-AddOn-2-Package
     IIS网络服务器附加包2
+
+    Microsoft-Windows-IIS-WebServer-AddOn-Package
+    IIS网络服务器附加包
+
+    Microsoft-Windows-IIS-WebServer-Package
+    IIS网络服务器包
+
+    Microsoft-Windows-Indexing-Service-Package
+    索引服务包
+
+    Microsoft-Windows-Killbits-Package
+    是IE的ActiveX控制的补丁，该补丁为了增强网页上的脚本文件的安全执行。
+
+    Microsoft-Windows-Links-Package
+    Windows 链接包
+
+    Microsoft-Windows-MediaCenter-Package
+    WMC包
+
+    Microsoft-Windows-Media-Format-Package
+    媒体格式包
+
+    Microsoft-Windows-MediaPlayback-OC-Package
+    媒体播放-OC
+
+    Microsoft-Windows-MediaPlayer-DVDRegistration-Package
+    WMP DVD登记包
+    
+    Microsoft-Windows-MediaPlayer-Package
+    WMP媒体播放器包
+
+    Microsoft-Windows-MobilePC-Client-Basic-Package
+    移动PC客户端基础包
+
+    Microsoft-Windows-MobilePC-Client-LocationBasic-Package
+    移动PC客户端基本位置
+
+    Microsoft-Windows-MobilePC-Client-Premium-Package
+    移动PC客户端高级版包
+
+    Microsoft-Windows-MobilePC-Client-Sensors-Package
+    移动PC客户端传感器包
+
+    Microsoft-Windows-MobilePC-Client-SideShow-Package
+    移动PC客户端展示
+
+    Microsoft-Windows-NetworkDiagnostics-DirectAccessEntry-Package
+    网络诊断入口
