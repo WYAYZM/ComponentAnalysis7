@@ -1,4 +1,4 @@
-# Complete List of Starter Edition Components
+# Windows 7 Complete Components List
 
 ## full package name:
 
