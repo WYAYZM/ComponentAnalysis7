@@ -36,6 +36,8 @@
 
     staged
 
+    updateDriver elevate
+
 ### code explanation
 
     语言中性，介于zh-cn and en-us 之间
@@ -70,4 +72,4 @@
 
     适用的处置
 
-    
+    更新驱动提升
